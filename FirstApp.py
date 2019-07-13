@@ -24,3 +24,10 @@ secondNum = 0.1
 sum = firstNum + secondNum
 print(round(sum, 4))
 
+#to string
+firstStr = "My age is"
+secondStr = 29
+print(firstStr, str(secondStr))
+
+# Экранирование
+print("Caffee \"Continental\"")
