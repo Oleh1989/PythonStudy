@@ -31,3 +31,8 @@ print(firstStr, str(secondStr))
 
 # Экранирование
 print("Caffee \"Continental\"")
+
+# lower and upper function
+stringToLower = "HeLLO wORld"
+print(stringToLower.lower())
+print(stringToLower.upper())
